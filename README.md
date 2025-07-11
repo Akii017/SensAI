@@ -146,27 +146,32 @@ A comprehensive AI-powered career development platform that helps professionals 
 
 ## 📱 Screenshots
 
-<!-- Add your screenshots here -->
+### Landing Page
 
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
+![Landing Page](screenshots/LandingPage1.png)
 
 ### Resume Builder
 
-![Resume Builder](screenshots/resume-builder.png)
+![Resume Builder](screenshots/ResumeBuilder.png)
+![Resume Builder - Features](screenshots/ResumeBuilder2.png)
+![Resume Builder - Interface](screenshots/ResumeBuilder3.png)
 
 ### Interview Preparation
 
-![Interview Prep](screenshots/interview-prep.png)
+![Interview Prep](screenshots/InterviewPrep.png)
+![Interview Prep - Quiz](screenshots/InterviewPrep2.png)
+![Interview Prep - Results](screenshots/InterviewPrep3.png)
+![Interview Prep - Analytics](screenshots/InterviewPrep4.png)
 
 ### Cover Letter Generator
 
-![Cover Letter](screenshots/cover-letter.png)
+![Cover Letter](screenshots/CoverLetter.png)
+![Cover Letter - Editor](screenshots/CoverLetter2.png)
 
-### AI Career Guidance
+### Industry Insights & Career Guidance
 
-![Career Guidance](screenshots/career-guidance.png)
+![Industry Insights](screenshots/IndustryInsights.png)
+![Industry Insights - Details](screenshots/IndustryInsights2.png)
 
 ## 🎥 Video Walkthrough
 
@@ -215,9 +220,6 @@ ai-career-coach/
 - **Role-based Access**: Different features based on user status
 - **Data Privacy**: Secure handling of personal information
 
-
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
