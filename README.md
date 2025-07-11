@@ -177,7 +177,7 @@ A comprehensive AI-powered career development platform that helps professionals 
 
 <!-- Add your video walkthrough here -->
 
-[![AI Career Coach Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![AI Career Coach Demo]](https://drive.google.com/file/d/1QY1HdxzkXOFa2jLfFfaFLDo3nBMAkiI_/view?usp=sharing)
 
 ## 🏗️ Project Structure
 
